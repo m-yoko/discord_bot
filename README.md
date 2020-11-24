@@ -1,2 +1,7 @@
 # discord_bot
-my discord bot (by Java)
+
+## Link
+
+English →　[README by English](README_en.md)
+
+Japanese → [README by Japanese](README_ja.md)
